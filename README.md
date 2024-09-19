@@ -35,7 +35,7 @@ Biblios is a library management system built using Symfony, a PHP framework. The
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Sphynx6/Biblios.git
+   git clone https://github.com/Ahmed-Ayari/Biblios.git
    cd Biblios
    ```
 
